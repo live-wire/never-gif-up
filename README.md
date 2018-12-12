@@ -10,7 +10,7 @@
 - It will open a webcam view window. Press `Spacebar` to capture a frame and `Escape` to exit. It will create a GIF from the captured frames. [SKIP THIS STEP if you already have a GIF file] <br>
 `$ python lossless.py <output.gif>`
 - It will perform compression of the GIF and lay out the compression percentages.
-- Read the **full report** [here](https://github.com/live-wire/never-gif-up/blob/master/never_gif_up_report.pdf)
+- Read the **report** [here](https://github.com/live-wire/never-gif-up/blob/master/never_gif_up_report.pdf) :love_letter:
 - See [lecture notes](#from-complexity-to-intelligence) <br>
 :beers:
 
